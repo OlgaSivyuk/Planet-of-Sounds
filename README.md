@@ -74,7 +74,7 @@ Each day reveals a new location and a new mission.
 
 ### Welcome Screen
 
-<img src="welcome.png" width="350">
+<img src="Welcome.png" width="350">
 
 ### Mission Introduction
 
