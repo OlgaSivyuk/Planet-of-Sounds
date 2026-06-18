@@ -4,7 +4,7 @@
 
 **Sound Planet** is a gamified Telegram bot designed to help children practice speech therapy exercises through an engaging space adventure.
 
-Instead of receiving repetitive homework, children become astronauts on a mission to restore the power of the Russian sound **"Р"**. Each day unlocks a new planet, a new challenge, and a new speech exercise.
+Instead of receiving repetitive homework, children become astronauts on a mission to restore the power of the Russian sound **"Р"** (R). Each day unlocks a new planet, a new challenge, and a new speech exercise.
 
 The project combines speech therapy techniques, storytelling, gamification, and conversational UX to increase motivation and daily practice consistency.
 
