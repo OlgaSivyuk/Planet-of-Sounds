@@ -78,19 +78,19 @@ Each day reveals a new location and a new mission.
 
 ### Mission Introduction
 
-![Story](images/story.png)
+<img src="story.png" width="350">
 
 ### Daily Exercises
 
-![Mission](images/day2.png)
+<img src="mission.png" width="350">
 
 ### Interactive Practice
 
-![Exercise](images/exercise.png)
+<img src="exercise.png" width="350">
 
 ### Scenario Architecture
 
-![SaleBot Builder](images/salebot-builder.png)
+<img src="salebot.png" width="350">
 
 ---
 
